@@ -80,7 +80,7 @@ export default function App() {
             {/* Majestic Hero Banner */}
             <div className="relative h-[320px] sm:h-[420px] overflow-hidden bg-slate-950 border-b border-slate-900">
               <img
-                src="/src/assets/images/hero_supercar_bg_1784039401570.jpg"
+                src="/images/hero_supercar_bg_1784039401570.jpg"
                 alt="Supercar twilight background"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

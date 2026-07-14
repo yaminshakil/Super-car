@@ -8,9 +8,9 @@ export const CARS_DATABASE: CarData[] = [
     price: 4300000,
     year: 2026,
     origin: 'France',
-    image: '/src/assets/images/bugatti_tourbillon_1784039418756.jpg',
+    image: '/images/bugatti_tourbillon_1784039418756.jpg',
     gallery: [
-      '/src/assets/images/bugatti_tourbillon_1784039418756.jpg',
+      '/images/bugatti_tourbillon_1784039418756.jpg',
       'https://images.unsplash.com/photo-1600706432502-75a0e2e21eed?auto=format&fit=crop&q=80&w=800',
       'https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?auto=format&fit=crop&q=80&w=800'
     ],
@@ -62,9 +62,9 @@ This is an analog, mechanical monument built to stand the test of centuries.`
     price: 3400000,
     year: 2025,
     origin: 'Sweden',
-    image: '/src/assets/images/koenigsegg_jesko_1784039446820.jpg',
+    image: '/images/koenigsegg_jesko_1784039446820.jpg',
     gallery: [
-      '/src/assets/images/koenigsegg_jesko_1784039446820.jpg',
+      '/images/koenigsegg_jesko_1784039446820.jpg',
       'https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&q=80&w=800',
       'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&q=80&w=800'
     ],
@@ -117,9 +117,9 @@ By utilizing seven individual wet multi-disc clutches operating in parallel, the
     price: 2500000,
     year: 2024,
     origin: 'Italy',
-    image: '/src/assets/images/pagani_utopia_1784039432478.jpg',
+    image: '/images/pagani_utopia_1784039432478.jpg',
     gallery: [
-      '/src/assets/images/pagani_utopia_1784039432478.jpg',
+      '/images/pagani_utopia_1784039432478.jpg',
       'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800',
       'https://images.unsplash.com/photo-1525609004556-c46c7d6cf0a3?auto=format&fit=crop&q=80&w=800'
     ],
