@@ -1,0 +1,6 @@
+{
+  "name": "Supercar Specs Blog",
+  "description": "A premium blog and technical encyclopedia for expensive supercars around the world, featuring detailed performance specifications and high-quality photo galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
