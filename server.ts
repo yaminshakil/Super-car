@@ -3,7 +3,7 @@ import path from 'path';
 import dotenv from 'dotenv';
 import { createServer as createViteServer } from 'vite';
 import { GoogleGenAI } from '@google/genai';
-import { CARS_DATABASE } from './src/data/cars';
+import { CARS_SPECS_DATABASE as CARS_DATABASE } from './src/data/cars-specs';
 
 dotenv.config();
 

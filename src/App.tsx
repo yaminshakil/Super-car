@@ -9,6 +9,7 @@ import DragSimulator from './components/DragSimulator';
 import AiGarage from './components/AiGarage';
 import Footer from './components/Footer';
 import { Search, Filter, Shield, Award, Sparkles, Cpu, Flame } from 'lucide-react';
+import heroBg from './assets/images/hero_supercar_bg_1784039401570.jpg';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState<'catalog' | 'compare' | 'drag-race' | 'ai-garage'>('catalog');
@@ -80,7 +81,7 @@ export default function App() {
             {/* Majestic Hero Banner */}
             <div className="relative h-[320px] sm:h-[420px] overflow-hidden bg-slate-950 border-b border-slate-900">
               <img
-                src="/images/hero_supercar_bg_1784039401570.jpg"
+                src={heroBg}
                 alt="Supercar twilight background"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
